@@ -90,7 +90,7 @@ This project is a simple Node.js authentication server built with Express. It de
 
 ```json
 {
-  "refreshToken": "Bearer <access_token>"
+  "Authorization": "Bearer <access_token>"
 }
 ```
 
@@ -103,7 +103,7 @@ This project is a simple Node.js authentication server built with Express. It de
 
 ```json
 {
-  "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
 }
 ```
 
