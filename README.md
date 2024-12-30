@@ -1,4 +1,4 @@
-# Autoninjas Auth
+# Simple Auth
 
 ## Overview
 
